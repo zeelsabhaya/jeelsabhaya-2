@@ -1,0 +1,719 @@
+@media (max-width: 1300px) {
+  section .container {
+    max-width: 1200px;
+  }
+  .Features .main-2 h3 {
+    font-size: 42px;
+  }
+  .Choose-us .padding {
+    padding: 60px 0px 60px;
+  }
+  .Choose-us .container {
+    max-width: 1024px;
+  }
+  .Choose-us .Customers-img img {
+    width: 570px;
+    height: 443px;
+    margin-top: 30px;
+    margin-left: 30px;
+  }
+  .Testimonial .title h4 {
+    font-size: 42px;
+  }
+  .Testimonial .brand p {
+    font-size: 18px;
+    margin: -59px 441px 0px 0px;
+  }
+  .Testimonial .intuitive .btn {
+    margin-top: 8px;
+  }
+  .standout p {
+    line-height: 32px;
+  }
+  .standout .img-4 img {
+    margin-right: 71px;
+  }
+  .Benefits .container {
+    max-width: 960px;
+  }
+  .Benefits .all-time h3 {
+    font-size: 42px;
+  }
+  .Benefits .through p {
+    max-width: 450px;
+  }
+  .Benefits .row i + p {
+    font-size: 16px;
+    margin: 0px 0px 16px 13px;
+  }
+  .Benefits .marketing-strategies {
+    height: 485px;
+    width: 423px;
+    margin: 51px;
+  }
+  .Benefits .color-3 {
+    padding: 79px 0px 69px;
+  }
+  .Latest-news .articles {
+    height: 477px;
+    width: 356px;
+  }
+  .footer .container {
+    max-width: 1200px;
+  }
+}
+@media (max-width: 1200px) {
+  .bleck .header .container {
+    max-width: 960px;
+  }
+  ul {
+    padding-left: 0px;
+  }
+  section .container {
+    max-width: 960px;
+  }
+  .Empower .Customer {
+    font-size: 63px;
+  }
+  .bleck .col-6 .hero img {
+    width: 404px;
+    height: 434px;
+  }
+  section .col-6 .hero {
+    width: 404px;
+    height: 434px;
+  }
+  .business .company h2 {
+    margin: 0 auto;
+    font-size: 42px;
+    text-align: center;
+  }
+  .business .brand {
+    margin-top: 50px;
+  }
+  .business .brand img {
+    margin-right: 40px;
+  }
+  .Features .main-2 {
+    padding: 112px 50px 125px;
+  }
+  .Choose-us .needs h3 {
+    font-size: 42px;
+  }
+  .Choose-us .market p {
+    max-width: 438px;
+  }
+  .Choose-us .market + hr {
+    margin-top: 37px;
+    max-width: 457px;
+  }
+  .Choose-us .Satisfied h4 {
+    font-size: 42px;
+  }
+  .Choose-us .Years h4 {
+    font-size: 42px;
+  }
+  .Choose-us .Satisfied p {
+    margin: 7px 22px 43px 9px;
+  }
+  .Choose-us .Years p {
+    margin: 7px 22px 43px 9px;
+  }
+  .Choose-us.visible ul {
+    margin-top: 34px;
+  }
+  .Services-1 .Services h6 {
+    font-size: 42px;
+    max-width: 532px;
+  }
+  .Services-1 .growth h4 {
+    font-size: 28px;
+  }
+  .Services-1 .box {
+    padding: 49px 20px 30px;
+  }
+  .Testimonial .title h4 {
+    font-size: 42px;
+    margin: 0px 225px 10px;
+  }
+  .Testimonial .brand p {
+    font-size: 18px;
+    margin: -59px 312px 0px 0px;
+  }
+  .Testimonial .intuitive .btn {
+    margin-top: 8px;
+  }
+  .Testimonial p {
+    line-height: 32px;
+  }
+  .Testimonial .img-4 img {
+    margin-right: 20px;
+    height: 390px;
+    width: 390px;
+  }
+  .Latest-news .articles {
+    height: 356px;
+    width: 276px;
+  }
+  .Latest-news .sparks {
+    margin: 15px 0px 0px 0px;
+  }
+  .Latest-news .fueling {
+    margin: 8px 9px 0px 15px;
+    padding: 10px;
+  }
+  .Latest-news .education h6 {
+    font-size: 19px;
+    margin: 20px;
+  }
+  .Latest-news .Latest h3 {
+    font-size: 42px;
+  }
+  .Latest-news .resources {
+    padding: 73px 0px 75px;
+  }
+  .Latest-news .container {
+    max-width: 992px;
+  }
+  .main-6 {
+    margin-left: 32px;
+  }
+  .footer .container {
+    max-width: 960px;
+  }
+  .footer .company-icon-1 {
+    margin-right: 10px;
+  }
+  .footer .Templates {
+    padding-left: 0px;
+    margin-bottom: 20px;
+  }
+  .footer form input {
+    width: 229px;
+    margin: 48px 0px 48px;
+  }
+}
+@media (max-width: 1024px) {
+  section .container {
+    max-width: 992px;
+  }
+  .Choose-us .needs h3 {
+    font-size: 42px;
+  }
+  .Choose-us .market p {
+    max-width: 438px;
+  }
+  .Choose-us .market + hr {
+    margin-top: 37px;
+    max-width: 457px;
+  }
+  .Choose-us .Satisfied h4 {
+    font-size: 42px;
+  }
+  .Choose-us .Years h4 {
+    font-size: 42px;
+  }
+  .Choose-us .Satisfied p {
+    margin: 7px 22px 43px 9px;
+  }
+  .Choose-us .Years p {
+    margin: 7px 22px 43px 9px;
+  }
+  .Choose-us.visible ul {
+    margin-top: 34px;
+  }
+  .main-6 {
+    margin-left: 180px;
+  }
+}
+@media (max-width: 992px) {
+  header nav ul {
+    display: none;
+  }
+  header nav .icon {
+    display: block;
+    padding-top: 15px;
+    padding-right: 30px;
+  }
+  section .col-6 .hero {
+    margin-left: 22px;
+    margin-top: 155px;
+  }
+  .bleck .Empower .Customer {
+    margin-left: 20px;
+  }
+  .bleck .col-6 .Empower + p {
+    margin-left: 20px;
+  }
+  .bleck .btn-started {
+    margin-left: 20px;
+  }
+  .bleck + .bleck {
+    padding-bottom: 77px;
+  }
+  .business .company h2 {
+    margin: 0 auto;
+    font-size: 34px;
+    text-align: center;
+  }
+  .business .start-ups p {
+    font-size: 18px;
+  }
+  .business .brand {
+    margin-top: 50px;
+  }
+  .business .brand img {
+    margin-right: 30px;
+  }
+  .business .brand img:nth-child(1) {
+    display: none;
+  }
+  .business .main-1 {
+    padding: 70px 0px 60px;
+  }
+  .Features .col-4 {
+    width: 50%;
+    justify-content: center;
+  }
+  .Features .card {
+    margin-bottom: 30px;
+    margin-right: 20px;
+  }
+  .Features .Business-Strategy + p {
+    margin: 0 auto;
+  }
+  .Features .main-2 {
+    padding: 45px 50px 23px;
+  }
+  .Choose-us .col-6 {
+    width: 100%;
+  }
+  .Choose-us .needs h3 {
+    font-size: 34px;
+  }
+  .Choose-us .container {
+    max-width: 780px;
+  }
+  .Choose-us .Customers-img img {
+    width: 710px;
+    height: 606px;
+    margin-top: 70px;
+    margin-left: 30px;
+  }
+  .Services-1 .Services h6 {
+    font-size: 34px;
+    line-height: 40px;
+    max-width: 321 px;
+  }
+  .Services-1 .container {
+    max-width: 720px;
+  }
+  .Unlock .col-4 {
+    width: 100%;
+  }
+  .Unlock {
+    max-width: 100%;
+    flex-direction: column;
+  }
+  .Unlock .img-c3 {
+    display: block;
+    margin: 0 auto;
+  }
+  .Unlock .growth h4 {
+    text-align: center;
+  }
+  .Unlock .seize p {
+    text-align: center;
+  }
+  .Services-1 .color-3 {
+    padding: 65px 0px;
+  }
+  .Benefits .container {
+    max-width: 768px;
+  }
+  .Benefits .all-time h3 {
+    font-size: 38px;
+  }
+  .Benefits .through p {
+    max-width: 450px;
+  }
+  .Benefits .row i + p {
+    font-size: 13px;
+    margin: 0px -12px 4px 7px;
+  }
+  .Benefits .marketing-strategies {
+    height: 456px;
+    width: 397px;
+    margin: 34px;
+    margin-top: 61px;
+  }
+  .Benefits .orderly {
+    margin: 20px 6px 0px 0px;
+  }
+  .footer .container {
+    max-width: 720px;
+  }
+  .footer .col-3 {
+    width: 50%;
+  }
+  .footer .background {
+    padding: 100px 0px 75px;
+  }
+  .footer .Blog {
+    margin-bottom: 56px;
+  }
+  .footer .Page a {
+    margin-bottom: 12px;
+  }
+  .footer form input {
+    width: 100%;
+    margin: 34px 0px 33px;
+  }
+}
+@media (max-width: 893px) {
+  .bleck .header .container {
+    max-width: 788px;
+  }
+  .bleck .Empower .Customer {
+    margin-left: 38px;
+    margin-top: 50px;
+    font-size: 48px;
+    max-width: 589px;
+  }
+  .bleck .col-6 .Empower + p {
+    margin-left: 38px;
+  }
+  .bleck .btn-started {
+    margin-left: 38px;
+  }
+  .bleck .col-6 {
+    width: 100%;
+  }
+  section .col-6 .hero {
+    margin-left: 58px;
+    margin-top: 100px;
+    height: 733px;
+    width: 80%;
+  }
+  .bleck .col-6 .hero img {
+    width: 733px;
+    height: 733px;
+  }
+  .bleck.container {
+    max-width: 768px;
+  }
+  .business .company h2 {
+    margin: 0 auto;
+    font-size: 34px;
+    text-align: center;
+  }
+  .business .start-ups p {
+    font-size: 18px;
+  }
+  .business .brand {
+    margin-top: 50px;
+  }
+  .business .brand img {
+    margin-right: 50px;
+  }
+  .business .brand img:nth-child(2) {
+    display: none;
+  }
+  .Testimonial .title h4 {
+    font-size: 32px;
+  }
+  .Testimonial .col-6 {
+    width: 100%;
+  }
+  .Testimonial .img-4 img {
+    height: 730px;
+    margin-left: 68px;
+    width: 730px;
+  }
+  .Testimonial .brand p {
+    margin: -59px 729px 0px 0px;
+  }
+  .Benefits .col-6 {
+    width: 100%;
+  }
+  .Benefits .through p {
+    max-width: 673px;
+  }
+  .Benefits .all-time h3 {
+    font-size: 34px;
+  }
+  .Benefits .marketing-strategies {
+    height: 585px;
+    width: 513px;
+    margin: 61px;
+    margin-top: 61px;
+  }
+  .Benefits .row i + p {
+    font-size: 19px;
+    margin: 0px -12px 27px 7px;
+  }
+  .Benefits .orderly {
+    margin: 20px 24px 0px 0px;
+  }
+}
+@media (max-width: 768px) {
+  .business .company h2 {
+    margin: 0 auto;
+    font-size: 34px;
+    text-align: center;
+  }
+  .business .start-ups p {
+    font-size: 18px;
+  }
+  .business .brand {
+    margin-top: 50px;
+  }
+  .business .brand img {
+    margin-right: 50px;
+  }
+  .business .brand img:nth-child(3) {
+    margin-left: 35px;
+  }
+  .business .main-1 {
+    padding: 70px 0px 90px;
+  }
+  .Features .col-4 {
+    width: 100%;
+    justify-content: center;
+  }
+  .Features .Business-Strategy + p {
+    max-width: 603px;
+  }
+  .Features .card {
+    margin-bottom: 30px;
+    margin-right: 5px;
+  }
+  .Features .main-2 {
+    padding: 52px 20px 63px;
+  }
+  .Features .main-2 h3 {
+    font-size: 27px;
+    margin-bottom: 30px;
+  }
+  .Choose-us .needs h3 {
+    font-size: 32px;
+  }
+  .Services-1 .provide {
+    display: block;
+  }
+  .Testimonial .title h4 {
+    font-size: 27px;
+  }
+  .Testimonial .col-6 {
+    width: 100%;
+  }
+  .Testimonial .img-4 img {
+    height: 390px;
+    margin-left: 173px;
+    width: 390px;
+  }
+  .Testimonial .brand p {
+    margin: -59px 594px 0px 0px;
+  }
+  .Testimonial .padding {
+    padding: 47px 0px 93px;
+  }
+  .footer .container {
+    max-width: 100%;
+  }
+}
+@media (max-width: 420px) {
+  .bleck .Empower .Customer {
+    margin-left: 0px;
+    margin-top: 50px;
+    font-size: 35px;
+    max-width: 589px;
+  }
+  .bleck .col-6 .Empower + p {
+    margin-left: 0px;
+  }
+  .bleck .btn-started {
+    margin-left: 0px;
+  }
+  .bleck .btn-started div {
+    padding: 12px 35px;
+    width: 151px;
+    height: 55px;
+    font-size: 15px;
+  }
+  section .col-6 .hero {
+    margin-left: 0px;
+    margin-top: 30px;
+    height: 420px;
+    width: 100%;
+  }
+  .business .company h2 {
+    margin: 0 auto;
+    font-size: 27px;
+    text-align: center;
+  }
+  .business .start-ups p {
+    font-size: 20px;
+    text-align: center;
+  }
+  .business .brand {
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+  }
+  .business .brand img {
+    width: 150px;
+    margin-bottom: 20px;
+  }
+  .business .brand img:nth-child(3) {
+    margin-left: 0px;
+  }
+  .business .brand img:nth-child(2) {
+    display: block;
+    margin-left: 0px;
+  }
+  .business .brand img:nth-child(1) {
+    margin-left: 0px;
+    display: block;
+  }
+  .business .main-1 {
+    padding: 40px 0px 30px;
+  }
+  .Choose-us .partner .Satisfied {
+    margin-top: 20px;
+  }
+  .Choose-us .Years {
+    margin-top: 1px;
+  }
+  .Choose-us .Satisfied p {
+    margin: 7px 22px 23px 9px;
+  }
+  .Choose-us .visible ul {
+    margin-top: 20px;
+  }
+  .Choose-us .Customers-img img {
+    width: 376px;
+    height: 339px;
+    margin-top: 41px;
+    margin-left: 30px;
+  }
+  .Testimonial .title h4 {
+    font-size: 27px;
+    margin: 0px 36px 0px 40px;
+  }
+  .Testimonial .col-6 {
+    width: 100%;
+  }
+  .Testimonial .img-4 img {
+    height: 390px;
+    margin-left: 5px;
+    width: 390px;
+  }
+  .Testimonial .brand p {
+    margin: -59px 240px 0px 0px;
+  }
+  .Testimonial .padding {
+    padding: 47px 0px 93px;
+  }
+  .Benefits .all-time h3 {
+    font-size: 30px;
+  }
+  .Benefits .row i + p {
+    font-size: 14px;
+  }
+  .Benefits .orderly {
+    margin: 20px 18px 0px 0px;
+  }
+  .Benefits .marketing-strategies {
+    height: 422px;
+    width: 396px;
+    margin: 0px;
+    margin-top: 27px;
+  }
+  .Benefits .color-3 {
+    padding: 25px 0px 69px;
+  }
+  .main-6 {
+    margin-left: 50px;
+  }
+  .Latest-news .Latest h3 {
+    font-size: 27px;
+  }
+  .footer .col-3 {
+    width: 100%;
+  }
+  .footer .Blog {
+    margin-left: 4px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+  }
+  .footer .Blog h3 {
+    margin-bottom: 25px;
+  }
+  .footer .Brandbes {
+    justify-content: start;
+  }
+}
+@media (max-width: 320px) {
+  .bleck .btn-started div {
+    margin-bottom: 21px;
+  }
+  .bleck .col-6 .hero img {
+    width: 279px;
+    height: 299px;
+  }
+  .bleck .col-6 .hero {
+    width: 279px;
+    height: 299px;
+  }
+  .bleck + .bleck {
+    padding-bottom: 50px;
+  }
+  .business .brand img {
+    width: 150px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+  }
+  .header img {
+    width: 150px;
+  }
+  .Features .main-2 {
+    padding: 52px 20px 28px;
+  }
+  .Choose-us .Customers-img img {
+    width: 334px;
+    height: 259px;
+    margin-top: 41px;
+    margin-left: 0px;
+  }
+  .Testimonial .img-4 img {
+    height: 290px;
+    margin-left: 5px;
+    width: 364px;
+  }
+  .Testimonial .title h4 {
+    font-size: 27px;
+    margin: 0px 11px 0px 2px;
+  }
+  .Testimonial .brand p {
+    margin: -59px 154px 0px 0px;
+  }
+  .Benefits .row i + p {
+    font-size: 10px;
+  }
+  .Benefits .marketing-strategies {
+    height: 312px;
+    width: 295px;
+    margin: 0px;
+    margin-top: 27px;
+  }
+  .main-6 {
+    margin-left: 0px;
+  }
+  .Latest-news .resources {
+    padding: 22px 0px 30px;
+  }
+  .Latest-news .articles {
+    margin-top: 20px;
+  }
+}
